@@ -1,0 +1,19 @@
+{
+  "name": "reactjs-action",
+  "version": "1.0.0",
+  "description": "this a learn project for Github action Workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzahraei/reactjs-action.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mzahraei/reactjs-action/issues"
+  },
+  "homepage": "https://github.com/mzahraei/reactjs-action#readme"
+}
